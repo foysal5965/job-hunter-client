@@ -1,0 +1,38 @@
+[
+    {
+        
+        "name":"Software Developer",
+        "location":"Dhaka, Bangladesh",
+        "comapany":"Amazon."
+     },
+    {
+        
+        "name":"Information Security Analyst",
+        "location":"Delhi, India",
+        "comapany":"Alphabet Inc."
+     },
+    {
+        
+        "name":"IT Manager.",
+        "location":"Colombo, Srilanka",
+        "comapany":"Tencent Holdings."
+     },
+    {
+        
+        "name":"Web Developer",
+        "location":"Sydny, Austrelia",
+        "comapany":"Samsung Group."
+     },
+    {
+        
+        "name":"Computer Systems Analyst.",
+        "location":"Parth, Austrelia",
+        "comapany":"Meta Platforms."
+     },
+    {
+         
+        "name":"Data Scientist.",
+        "location":"JohanesBarg, South Africa",
+        "comapany":"Cisco Systems"
+     }
+]
